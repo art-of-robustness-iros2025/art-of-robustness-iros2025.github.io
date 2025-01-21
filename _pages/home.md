@@ -6,13 +6,11 @@ sponsors:
   - url: https://eng.bigai.ai/
     image_path: /assets/images/sponsors/BIGAI.png
     alt: "BIGAI"
-
 invited_speakers:
   - name: "Prof. XXX"
     affiliation: "University of XXX"
     image_path: /assets/images/invited_speakers/bio-photo.jpg
     topic: "Title of the Talk"
-
 organizers:
   - name: "Jiayi Wang"
     affiliation: "Beijing Institute for General Artificial Intelligence (BIGAI)"
@@ -41,6 +39,19 @@ organizers:
   - name: Yao Su
     affiliation: "Beijing Institute for General Artificial Intelligence (BIGAI)"
     image_path: /assets/images/organizers/yao.jpeg
+gallery:
+  - url: /assets/images/unsplash-gallery-image-1.jpg
+    image_path: /assets/images/unsplash-gallery-image-1-th.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: /assets/images/unsplash-gallery-image-2.jpg
+    image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+    alt: "placeholder image 2"
+    title: "Image 2 title caption"
+  - url: /assets/images/unsplash-gallery-image-3.jpg
+    image_path: /assets/images/unsplash-gallery-image-3-th.jpg
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
 ---
 
 **Warning Notice:** This website is under construction.
@@ -83,14 +94,62 @@ advancements and strategies for addressing these obstacles.
 
 ## Topics of Dicussion and Interest
 
-The workshop will focus on the following topics:
+<div class="gallery">
+  <div class="gallery-item">
+    <img src="/assets/images/gallery/fundamental_algorithms.webp" alt="Fundamental Algorithms">
+    <h3>Fundamental Algorithms</h3>
+    <ul style="text-align: left; padding-left: 30px; font-size: 1.0em; line-height: 1.2;">
+      <li>How to cope with perception noises</li>
+      <li>Handle uncertainties in planning and control</li>
+      <li>Recovery behaviors from failures</li>
+      <li>Ensure constraints in robot learning</li>
+    </ul>  </div>
+  <div class="gallery-item">
+    <img src="/assets/images/gallery/system_engineering.webp" alt="System Engineering">
+    <h3>System Engineering</h3>
+    <ul style="text-align: left; padding-left: 30px; font-size: 1.0em; line-height: 1.2;">
+      <li>Hardware design</li>
+      <li>Software integration</li>
+    </ul>  </div>
+  <div class="gallery-item">
+    <img src="/assets/images/gallery/practical_aspects.webp" alt="Practical Aspects">
+    <h3>Practical Aspects</h3>
+    <ul style="text-align: left; padding-left: 30px; font-size: 1.0em; line-height: 1.2;">
+      <li>Nitty-gritty details that often overlooked in academic papers</li>
+      <li>Attitude and mindset when dealing with failures</li>
+    </ul>
+  </div>
+</div>
 
-- Analyzing the key challenges that lead to failures in robotics, namely perceptual noise, uncertainty in model-based methods, limited generalizability in learning-based methods. 
+<style>
+.gallery {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  gap: 20px;
+}
 
-- Exploring innovative solutions to mitigate these issues, thereby improving the robustness of robotic systems. 
+.gallery-item {
+  text-align: center;
+  max-width: 375px;
+}
 
-- System integration
+.gallery-item img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
 
+.gallery-item h3 {
+  margin: 10px 0 5px;
+  font-size: 1.2em;
+}
+
+.gallery-item p {
+  font-size: 0.9em;
+  color: #666;
+}
+</style>
 
 ## Invited Speakers
 
@@ -174,7 +233,6 @@ We invite researchers to submit short papers on preliminary results, ongoing wor
     font-size: 1.0em; /* Adjust the font size as needed */
   }
 </style>
-
 
 ## Sponsors
 
