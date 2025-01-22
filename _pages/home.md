@@ -89,7 +89,7 @@ illustrating the impact of these failures in real-world settings.
 The primary objective of this workshop is to provide a platform for **discussing the key challenges that lead
 to failures in robots**, such as perceptual noise, uncertainty in model-based methods, limited generalizability
 in learning-based methods, and exploring **innovative solutions to mitigate these issues, thereby improving the
-robustness of robotic systems**. Additionally, the workshop will also feature **practical aspects** often overlooked in academic papers, e.g., system integation and debugging processes to address failures.
+robustness of robotic systems**. Additionally, the workshop will also feature **practical aspects** often overlooked in academic papers, e.g., system integration and debugging processes to address failures.
 The workshop will bring together world-renowned researchers and practitioners
 from diverse fields, including whole-body model-based control, robot learning, perception and sensing, system engineering, to share
 their insights and experiences. The workshop will feature invited talks, poster sessions, and panel discussions,
