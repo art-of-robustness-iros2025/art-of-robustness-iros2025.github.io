@@ -277,6 +277,7 @@ We invite researchers to submit short papers on preliminary results, ongoing wor
   .sponsor-img {
     width: 250px; /* Adjust the width as needed */
     height: auto; /* Maintain aspect ratio */
+    object-fit: cover; /* Ensure the image covers the area without distortion */
   }
 </style>
 
