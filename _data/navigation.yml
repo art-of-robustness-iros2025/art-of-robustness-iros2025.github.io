@@ -1,7 +1,9 @@
 main:
+  - title: "Home"
+    url: /
   - title: "Programme"
     url: /programme/
-  - title: "Call for Posters"
+  - title: "Call for Contributions"
     url: /posters/
   - title: "Attending"
     url: /attending/

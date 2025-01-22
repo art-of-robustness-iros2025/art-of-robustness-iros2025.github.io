@@ -6,6 +6,9 @@ sponsors:
   - url: https://eng.bigai.ai/
     image_path: /assets/images/sponsors/BIGAI.png
     alt: "BIGAI"
+  - url: https://www.lejurobot.com/
+    image_path: /assets/images/sponsors/leju_robotics.png
+    alt: "LEJU Robotics"
 invited_speakers:
   - name: "Prof. XXX"
     affiliation: "University of XXX"
@@ -86,8 +89,9 @@ illustrating the impact of these failures in real-world settings.
 The primary objective of this workshop is to provide a platform for **discussing the key challenges that lead
 to failures in robots**, such as perceptual noise, uncertainty in model-based methods, limited generalizability
 in learning-based methods, and exploring **innovative solutions to mitigate these issues, thereby improving the
-robustness of robotic systems**. The workshop will bring together world-renowned researchers and practitioners
-from diverse fields, including whole-body model-based control, robot learning, perception and sensing, to share
+robustness of robotic systems**. Additionally, the workshop will also feature **practical aspects** often overlooked in academic papers, e.g., system integation and debugging processes to address failures.
+The workshop will bring together world-renowned researchers and practitioners
+from diverse fields, including whole-body model-based control, robot learning, perception and sensing, system engineering, to share
 their insights and experiences. The workshop will feature invited talks, poster sessions, and panel discussions,
 offering attendees a comprehensive understanding on robustness challenges in robotics and highlight the latest
 advancements and strategies for addressing these obstacles.
@@ -99,23 +103,28 @@ advancements and strategies for addressing these obstacles.
     <img src="/assets/images/gallery/fundamental_algorithms.webp" alt="Fundamental Algorithms">
     <h3>Fundamental Algorithms</h3>
     <ul style="text-align: left; padding-left: 30px; font-size: 1.0em; line-height: 1.2;">
-      <li>How to cope with perception noises</li>
-      <li>Handle uncertainties in planning and control</li>
-      <li>Recovery behaviors from failures</li>
-      <li>Ensure constraints in robot learning</li>
-    </ul>  </div>
+      <li>Model-based and learning-based methods, and combinations of them</li>
+      <li>Scalability, generalization, and adaptability</li>
+      <li>Real-time computation</li>
+      <li>Perception and sensing techniques</li>
+      <li>Failure recovery algorithms</li>
+    </ul>  
+</div>
   <div class="gallery-item">
-    <img src="/assets/images/gallery/system_engineering.webp" alt="System Engineering">
-    <h3>System Engineering</h3>
+    <img src="/assets/images/gallery/system_engineering.webp" alt="Real-World Implementation">
+    <h3>Real-World Implementation</h3>
     <ul style="text-align: left; padding-left: 30px; font-size: 1.0em; line-height: 1.2;">
       <li>Hardware design</li>
-      <li>Software integration</li>
+      <li>Software engineering and system integration</li>
+      <li>Sim-to-real transfer</li>
+      <li>Evaluation and certification</li>
     </ul>  </div>
   <div class="gallery-item">
     <img src="/assets/images/gallery/practical_aspects.webp" alt="Practical Aspects">
     <h3>Practical Aspects</h3>
     <ul style="text-align: left; padding-left: 30px; font-size: 1.0em; line-height: 1.2;">
-      <li>Nitty-gritty details that often overlooked in academic papers</li>
+      <li>Nitty-gritty twists often overlooked in academic papers</li>
+      <li>Debugging process to address failures</li>
       <li>Attitude and mindset when dealing with failures</li>
     </ul>
   </div>
@@ -251,7 +260,7 @@ We invite researchers to submit short papers on preliminary results, ongoing wor
 
 <style>
   .sponsors {
-    text-align: center;
+    text-align: left;
   }
   .sponsor-list {
     display: flex;
