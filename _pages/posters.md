@@ -35,6 +35,7 @@ We invite researchers to submit short papers on preliminary results, ongoing wor
 ### Practical Aspect
 - Nitty-gritty twists that are often overlooked in academic papers.
 - Debugging process to identify and address the source of failures.
+- Attitude and mindset when dealing with failures.
 
 ## Submission Instructions
 
