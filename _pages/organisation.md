@@ -21,7 +21,7 @@ layout: splash
     <td class="organizer-info">
       <strong>Hangxin Liu</strong><br>
       Research Scientist, Beijing Institute for General Artificial Intelligence (BIGAI)<br>
-      <em class="research-topic">Research Topic: _To_Add_</em>
+      <em class="research-topic">Research Topic: Perception, Reasoning, Task and Motion Planning</em>
     </td>
   </tr>
   <tr>
@@ -29,7 +29,7 @@ layout: splash
     <td class="organizer-info">
       <strong>Henrique Ferrolho</strong><br>
       Senior Robotics Engineer, Address Robotics Ltd, London, UK<br>
-      <em class="research-topic">Research Topic: _To_Add_</em>
+      <em class="research-topic">Research Topic: Robotics, Optimal Control, Trajectory Optimisation</em>
     </td>
   </tr>
   <tr>
@@ -45,7 +45,7 @@ layout: splash
     <td class="organizer-info">
       <strong>Namiko Saito</strong><br>
       Senior Researcher, Microsoft Research Asia Tokyo<br>
-      <em class="research-topic">Research Topic: _To_Add_</em>
+      <em class="research-topic">Research Topic: Robot Manipulation, Multi-modal Learning, Representation Learning</em>
     </td>
   </tr>
   <tr>
@@ -53,7 +53,7 @@ layout: splash
     <td class="organizer-info">
       <strong>Russell Buchanan</strong><br>
       Assistant Professor, University of Waterloo<br>
-      <em class="research-topic">Research Topic: _To_Add_</em>
+      <em class="research-topic">Research Topic: Estimation, Perception, Learning for Robot Manipulation.</em>
     </td>
   </tr>
   <tr>
@@ -61,7 +61,7 @@ layout: splash
     <td class="organizer-info">
       <strong>Yao Su</strong><br>
       Research Scientist, Beijing Institute for General Artificial Intelligence (BIGAI)<br>
-      <em class="research-topic">Research Topic: _To_Add_</em>
+      <em class="research-topic">Research Topic: Robot Control, Embodied AI, Aerial robotics, Humanoids, Mobile Manipulation</em>
     </td>
   </tr>
   <tr>
@@ -69,7 +69,7 @@ layout: splash
     <td class="organizer-info">
       <strong>Yue Gao</strong><br>
       Associate Professor, Shanghai Jiaotong University<br>
-      <em class="research-topic">Research Topic: _To_Add_</em>
+      <em class="research-topic">Research Topic: Reinforcement Learning, Robot Locomotion</em>
     </td>
   </tr>
   <tr>
