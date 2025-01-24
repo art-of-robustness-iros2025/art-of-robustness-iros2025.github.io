@@ -9,6 +9,9 @@ sponsors:
   - url: https://www.lejurobot.com/
     image_path: /assets/images/sponsors/leju_robotics.png
     alt: "LEJU Robotics"
+  - url: https://www.microsoft.com/en-us/research/group/microsoft-research-asia-tokyo/
+    image_path: /assets/images/sponsors/microsoft.jpg
+    alt: "Microsoft Research Asia Tokyo"
 invited_speakers:
   - name: "Prof. XXX"
     affiliation: "University of XXX"
