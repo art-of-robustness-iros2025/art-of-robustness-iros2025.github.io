@@ -70,4 +70,4 @@ A *Best Poster Award* will be presented during the workshop's closing session.
 ## Contact
 If you have any questions, don't hesitate to contact us. 
 
-Mail: iros2025_robust_robot_ws [at] googlegroups.com
+Mail: art-of-robustness-iros2025 [at] googlegroups.com
