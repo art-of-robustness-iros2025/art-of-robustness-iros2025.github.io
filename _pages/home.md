@@ -292,4 +292,4 @@ We invite researchers to submit short papers on preliminary results, ongoing wor
 
 If you have any questions, please contact us.
 
-Mail: iros2025_robust_robot_ws [at] googlegroups.com
+Mail: art-of-robustness-iros2025 [at] googlegroups.com
