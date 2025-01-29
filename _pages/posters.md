@@ -5,6 +5,12 @@ classes: wide
 layout: splash
 ---
 
+**Disclaimer:** This workshop is not yet confirmed. We are working on our proposal submission.
+{: .notice--danger}
+
+**Warning:** This website is under construction.
+{: .notice--warning}
+
 ## Topics of Interest
 
 We invite researchers to submit short papers on preliminary results, ongoing works, and demos relevant to the workshop. The topics of interest include, but are not limited to:

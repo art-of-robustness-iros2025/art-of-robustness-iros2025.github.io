@@ -5,6 +5,12 @@ layout: splash
 classes: wide
 ---
 
+**Disclaimer:** This workshop is not yet confirmed. We are working on our proposal submission.
+{: .notice--danger}
+
+**Warning:** This website is under construction.
+{: .notice--warning}
+
 ## Programme
 
 The workshop features invited talks, panel discussions, and poster presentations. Each event will foster discussions, emphasizing interactions between early-career and senior researchers.

@@ -60,10 +60,14 @@ gallery:
     title: "Image 3 title caption"
 ---
 
-**Warning Notice:** This website is under construction.
+**Disclaimer:** This workshop is not yet confirmed. We are working on our proposal submission.
+{: .notice--danger}
+
+**Warning:** This website is under construction.
 {: .notice--warning}
 
-# The Art of Robustness: Surviving Failures in Robotics @ IROS 2025
+<!-- # {{ site.title }} -->
+# The Art of Robustness: Surviving Failures in Robotics
 
 *October 20, 2025 in Hangzhou, China*
 
