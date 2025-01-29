@@ -118,4 +118,4 @@ layout: splash
 
 ## Contact
 
-For all enquiries, please contact us at iros2025_robust_robot_ws [at] googlegroups.com
+For all enquiries, please contact us at art-of-robustness-iros2025 [at] googlegroups.com
