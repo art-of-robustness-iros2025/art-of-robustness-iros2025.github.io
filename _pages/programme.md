@@ -1,11 +1,34 @@
 ---
 permalink: /programme/
 title: "Programme"
-layout: single
+layout: splash
 classes: wide
 ---
 
-Below is an overview of the programme.
+## Programme
+
+The workshop features invited talks, panel discussions, and poster presentations. Each event will foster discussions, emphasizing interactions between early-career and senior researchers.
+
+**Invited talks**: Invited speakers will share their latest research in 20-minute talks.
+
+**Panel discussions**: 40-minute Q&A and panel discussions will take place at the end of each session. The organizers will moderate with questions from both in-person and online audiences.
+
+**Poster presentations**: Selected poster contributions will have a 1-minute teaser in the Poster Spotlight session, followed by a poster session.
+
+## Workshop Schedule (Tentative)
+
+<style>
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.9em; /* Increase the font size */
+  }
+  th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+  }
+</style>
 
 |      Time      |  Event  | Description                                 |
 | :------------: | :-----: | :------------------------------------------ |
