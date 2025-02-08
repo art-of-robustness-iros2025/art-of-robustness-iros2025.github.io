@@ -36,6 +36,23 @@ The workshop features invited talks, panel discussions, and poster presentations
   }
 </style>
 
+### Half-day workshop
+
+|     Time      |  Event  | Description                                           |
+| :-----------: | :-----: | :---------------------------------------------------- |
+| 08:20 – 08:30 | Opening | Welcome and foreword (10 mins)                        |
+| 08:30 – 09:00 |         | Speaker (20 mins + 5 mins Q&A)                        |
+| 09:00 – 09:30 |         | Speaker (20 mins + 5 mins Q&A)                        |
+| 09:30 – 10:00 |         | Speaker (20 mins + 5 mins Q&A)                        |
+| 10:00 – 10:30 |         | Poster spotlights (30 mins)                           |
+| 10:30 – 11:00 |  Break  | Coffee, tea, and posters (30 mins)                    |
+| 11:00 – 11:30 |         | Speaker (20 mins + 5 mins Q&A)                        |
+| 11:30 – 12:00 |         | Speaker (20 mins + 5 mins Q&A)                        |
+| 12:00 – 12:30 |         | Panel discussion (30 mins)                            |
+| 12:30 – 12:40 | Closing | Conclusion, best poster award, and farewell (10 mins) |
+
+### Full-day workshop
+
 |      Time      |  Event  | Description                                 |
 | :------------: | :-----: | :------------------------------------------ |
 | 08:45 – 09:00  | Opening | Welcome and foreword                        |
