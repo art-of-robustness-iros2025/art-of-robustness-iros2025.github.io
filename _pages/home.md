@@ -47,7 +47,7 @@ organizers:
     image_path: /assets/images/organizers/yao.jpeg
   - name: Songchun Zhu
     affiliation: "BIGAI, Peking University, Tsinghua University"
-    image_path: /assets/images/organizers/SongchunZhu.jpeg
+    image_path: /assets/images/organizers/SongchunZhu.jpg
     
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
