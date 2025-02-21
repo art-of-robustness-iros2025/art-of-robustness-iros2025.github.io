@@ -10,13 +10,19 @@ sponsors:
     image_path: /assets/images/sponsors/leju_robotics.png
     alt: "LEJU Robotics"
   - url: https://www.microsoft.com/en-us/research/group/microsoft-research-asia-tokyo/
-    image_path: /assets/images/sponsors/microsoft.jpg
+    image_path: /assets/images/sponsors/microsoft.png
     alt: "Microsoft Research Asia Tokyo"
+  - url: https://www.jst.go.jp/moonshot/en/program/goal3/
+    image_path: /assets/images/sponsors/moonshot.png
+    alt: "Moonshot Research and Development Program Goal3"
+  - url: https://www.jst.go.jp/EN/
+    image_path: /assets/images/sponsors/jst.png
+    alt: "Japan Science and Technology Agency (JST)"
 invited_speakers:
-  - name: "Prof. XXX"
-    affiliation: "University of XXX"
-    image_path: /assets/images/invited_speakers/bio-photo.jpg
-    topic: "Title of the Talk"
+  - name: "Prof. Kensuke Harada"
+    affiliation: "Osaka University"
+    image_path: /assets/images/invited_speakers/Kensuke Harada.png
+    topic: "Topic: Realizing robust motion planning for robotic manipulation tasks"
 organizers:
   - name: "Jiayi Wang"
     affiliation: "Beijing Institute for General Artificial Intelligence (BIGAI)"
@@ -195,7 +201,26 @@ advancements and strategies for addressing these obstacles.
     list-style-type: none;
     padding: 0;
   }
-  </style>
+  .speaker-item {
+    flex: 1 1 calc(20% - 40px); /* Adjust the size as needed */
+    text-align: center;
+  }
+  .speaker-img {
+    width: 150px; /* Adjust the width as needed */
+    height: 150px; /* Set the height to match the width */
+    border-radius: 50%; /* Make the image circular */
+    object-fit: cover; /* Ensure the image covers the area without distortion */
+  }
+  .speaker-name {
+    font-size: 1.0em; /* Adjust the font size as needed */
+  }
+  .speaker-affiliation {
+    font-size: 1.0em; /* Adjust the font size as needed */
+  }
+  .speaker-topic {
+    font-size: 1.0em; /* Adjust the font size as needed */
+  }
+</style>
 
 ## Call for Posters
 
@@ -286,9 +311,9 @@ We invite researchers to submit short papers on preliminary results, ongoing wor
     text-align: center;
   }
   .sponsor-img {
-    width: 250px; /* Adjust the width as needed */
-    height: auto; /* Maintain aspect ratio */
-    object-fit: cover; /* Ensure the image covers the area without distortion */
+    width: 200px; /* Set a fixed width */
+    height: 100px; /* Set a fixed height */
+    object-fit: contain; /* Ensure the image fits within the area without distortion */
   }
 </style>
 
