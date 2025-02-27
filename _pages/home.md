@@ -51,7 +51,7 @@ organizers:
   - name: Yao Su
     affiliation: "Beijing Institute for General Artificial Intelligence (BIGAI)"
     image_path: /assets/images/organizers/yao.jpeg
-  - name: Songchun Zhu
+  - name: Song-Chun Zhu
     affiliation: "BIGAI, Peking University, Tsinghua University"
     image_path: /assets/images/organizers/SongchunZhu.jpg
     
