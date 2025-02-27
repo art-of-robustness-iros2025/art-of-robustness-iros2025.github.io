@@ -89,7 +89,7 @@ layout: splash
   <tr>
     <td class="organizer-image"><a href="[https://homepages.inf.ed.ac.uk/svijayak/](https://eng.bigai.ai/)"><img src="/assets/images/organizers/SongchunZhu.jpg" alt="Songchun Zhu" width="150" height="150"></a></td>
     <td class="organizer-info">
-      <strong>Songchun Zhu</strong><br>
+      <strong>Song-Chun Zhu</strong><br>
       Professor, Director, BIGAI, Peking University, Tsinghua University <br>
       <em class="research-topic">Research Topic: Computer Vision, Learning, Cognition, Autonomy, Artificial Intelligence</em>
     </td>
