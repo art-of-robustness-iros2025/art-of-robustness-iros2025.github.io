@@ -17,7 +17,7 @@ The workshop features invited talks, panel discussions, and poster presentations
 
 **Invited talks**: Invited speakers will share their latest research in 20-minute talks.
 
-**Panel discussions**: 40-minute Q&A and panel discussions will take place at the end of each session. The organizers will moderate with questions from both in-person and online audiences.
+**Panel discussions**: 30-minute Q&A and panel discussions will take place at the end of the workshop. The organizers will moderate with questions from both in-person and online audiences.
 
 **Poster presentations**: Selected poster contributions will have a 1-minute teaser in the Poster Spotlight session, followed by a poster session.
 
@@ -40,18 +40,18 @@ The workshop features invited talks, panel discussions, and poster presentations
 
 |     Time      |  Event  | Description                                           |
 | :-----------: | :-----: | :---------------------------------------------------- |
-| 08:20 – 08:30 | Opening | Welcome and foreword (10 mins)                        |
-| 08:30 – 09:00 |         | Speaker (20 mins + 5 mins Q&A)                        |
-| 09:00 – 09:30 |         | Speaker (20 mins + 5 mins Q&A)                        |
-| 09:30 – 10:00 |         | Speaker (20 mins + 5 mins Q&A)                        |
-| 10:00 – 10:30 |         | Poster spotlights (30 mins)                           |
-| 10:30 – 11:00 |  Break  | Coffee, tea, and posters (30 mins)                    |
-| 11:00 – 11:30 |         | Speaker (20 mins + 5 mins Q&A)                        |
-| 11:30 – 12:00 |         | Speaker (20 mins + 5 mins Q&A)                        |
-| 12:00 – 12:30 |         | Panel discussion (30 mins)                            |
-| 12:30 – 12:40 | Closing | Conclusion, best poster award, and farewell (10 mins) |
+| 08:30 – 08:40 | Opening | Welcome and foreword (10 mins)                        |
+| 08:40 – 09:05 |         | Speaker (20 mins + 5 mins Q&A)                        |
+| 09:05 – 09:30 |         | Speaker (20 mins + 5 mins Q&A)                        |
+| 09:30 – 09:55 |         | Speaker (20 mins + 5 mins Q&A)                        |
+| 09:55 – 10:25 |         | Poster spotlights (30 mins)                           |
+| 10:25 – 10:55 |  Break  | Coffee, posters, demonstrations (30 mins)             |
+| 10:55 – 11:20 |         | Speaker (20 mins + 5 mins Q&A)                        |
+| 11:20 – 11:45 |         | Speaker (20 mins + 5 mins Q&A)                        |
+| 11:45 – 12:15 |         | Panel discussion (30 mins)                            |
+| 12:15 – 12:30 | Closing | Conclusion, best poster award, and farewell (10 mins) |
 
-### Full-day workshop
+<!-- ### Full-day workshop
 
 |      Time      |  Event  | Description                                 |
 | :------------: | :-----: | :------------------------------------------ |
@@ -70,4 +70,4 @@ The workshop features invited talks, panel discussions, and poster presentations
 | 16:00 – 17:00  |         | ?                                           |
 | 17:00 – 17:45  |         | ?                                           |
 | 17:45 – 18:00  | Closing | Conclusion, best poster award, and farewell |
-| 18:00 – *Late* | Dinner  | Food and drinks at a restaurant TBD         |
+| 18:00 – *Late* | Dinner  | Food and drinks at a restaurant TBD         | -->

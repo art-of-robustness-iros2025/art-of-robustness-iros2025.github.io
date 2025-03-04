@@ -23,6 +23,26 @@ invited_speakers:
     affiliation: "Osaka University"
     image_path: /assets/images/invited_speakers/Kensuke Harada.png
     topic: "Topic: Realizing robust motion planning for robotic manipulation tasks"
+  - name: "Prof. Nick Hawes"
+    affiliation: "University of Oxford"
+    image_path: /assets/images/invited_speakers/Nick Hawes.jpeg
+    topic: "Topic: Robustness through Planning in Long-term Autonomous Deployments"
+  - name: "Dr. Xiaokun Leng"
+    affiliation: "LEJU Robotics"
+    image_path: /assets/images/invited_speakers/bio-photo.jpg
+    topic: "Topic: Development of Humanoid Robot Technology and its Industrialization"
+  - name: "Dr. Sylvain Calinon"
+    affiliation: " Idiap Research Institute, EPFL, Switzerland"
+    image_path: /assets/images/invited_speakers/Sylvain Calinon.jpeg
+    topic: "Topic: Exploiting Geometric Approaches and Ergodic Control for Robust Manipulation"
+  - name: "Prof. Danica Kragic"
+    affiliation: " Royal Institute of Technology (KTH)"
+    image_path: /assets/images/invited_speakers/bio-photo.jpg
+    topic: "Topic: "
+  - name: "Dr. Xiaolong Wang"
+    affiliation: "University of California San Diego"
+    image_path: /assets/images/invited_speakers/bio-photo.jpg
+    topic: "Topic: "
 organizers:
   - name: "Jiayi Wang"
     affiliation: "Beijing Institute for General Artificial Intelligence (BIGAI)"
@@ -202,7 +222,7 @@ advancements and strategies for addressing these obstacles.
     padding: 0;
   }
   .speaker-item {
-    flex: 1 1 calc(20% - 40px); /* Adjust the size as needed */
+    flex: 1 1 calc(30% - 40px); /* Adjust the size as needed */
     text-align: center;
   }
   .speaker-img {
