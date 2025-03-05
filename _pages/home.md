@@ -29,7 +29,7 @@ invited_speakers:
     topic: "Topic: Robustness through Planning in Long-term Autonomous Deployments"
   - name: "Dr. Xiaokun Leng"
     affiliation: "LEJU Robotics"
-    image_path: /assets/images/invited_speakers/bio-photo.jpg
+    image_path: /assets/images/invited_speakers/Xiaokun Leng.jpeg
     topic: "Topic: Development of Humanoid Robot Technology and its Industrialization"
   - name: "Dr. Sylvain Calinon"
     affiliation: " Idiap Research Institute, EPFL, Switzerland"
