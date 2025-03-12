@@ -40,16 +40,17 @@ The workshop features invited talks, panel discussions, and poster presentations
 
 |     Time      |  Event  | Description                                           |
 | :-----------: | :-----: | :---------------------------------------------------- |
-| 08:30 – 08:40 | Opening | Welcome and foreword (10 mins)                        |
-| 08:40 – 09:05 |         | Speaker (20 mins + 5 mins Q&A)                        |
-| 09:05 – 09:30 |         | Speaker (20 mins + 5 mins Q&A)                        |
-| 09:30 – 09:55 |         | Speaker (20 mins + 5 mins Q&A)                        |
-| 09:55 – 10:25 |         | Poster spotlights (30 mins)                           |
-| 10:25 – 10:55 |  Break  | Coffee, posters, demonstrations (30 mins)             |
-| 10:55 – 11:20 |         | Speaker (20 mins + 5 mins Q&A)                        |
-| 11:20 – 11:45 |         | Speaker (20 mins + 5 mins Q&A)                        |
-| 11:45 – 12:15 |         | Panel discussion (30 mins)                            |
-| 12:15 – 12:30 | Closing | Conclusion, best poster award, and farewell (10 mins) |
+| 08:30 – 08:35 | Opening | Welcome and foreword (5 mins)                         |
+| 08:35 – 09:00 |         | Speaker (20 mins + 5 mins Q&A)                        |
+| 09:00 – 09:25 |         | Speaker (20 mins + 5 mins Q&A)                        |
+| 09:25 – 09:50 |         | Speaker (20 mins + 5 mins Q&A)                        |
+| 09:50 – 10:10 |         | Poster spotlights (20 mins)                           |
+| 10:10 – 10:40 |  Break  | Coffee, posters, demonstrations (30 mins)             |
+| 10:40 – 11:05 |         | Speaker (20 mins + 5 mins Q&A)                        |
+| 11:05 – 11:30 |         | Speaker (20 mins + 5 mins Q&A)                        |
+| 11:30 – 11:55 |         | Speaker (20 mins + 5 mins Q&A)                        |
+| 11:55 – 12:25 |         | Panel discussion (30 mins)                            |
+| 12:25 – 12:30 | Closing | Conclusion, best poster award, and farewell (5 mins) |
 
 <!-- ### Full-day workshop
 

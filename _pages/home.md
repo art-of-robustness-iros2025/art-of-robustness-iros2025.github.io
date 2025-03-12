@@ -37,12 +37,12 @@ invited_speakers:
     topic: "Topic: Exploiting Geometric Approaches and Ergodic Control for Robust Manipulation"
   - name: "Prof. Danica Kragic"
     affiliation: " Royal Institute of Technology (KTH)"
-    image_path: /assets/images/invited_speakers/bio-photo.jpg
-    topic: "Topic: "
+    image_path: /assets/images/invited_speakers/Danica Kragic.png
+    topic: "Topic: TBD"
   - name: "Dr. Xiaolong Wang"
     affiliation: "University of California San Diego"
-    image_path: /assets/images/invited_speakers/bio-photo.jpg
-    topic: "Topic: "
+    image_path: /assets/images/invited_speakers/Xiaolong Wang.png
+    topic: "Topic: TBD"
 organizers:
   - name: "Jiayi Wang"
     affiliation: "Beijing Institute for General Artificial Intelligence (BIGAI)"
