@@ -54,14 +54,14 @@ layout: splash
       <em class="research-topic">Research Topic: Robot Manipulation, Multi-modal Learning, Representation Learning</em>
     </td>
   </tr>
-  <tr>
+  <!-- <tr>
     <td class="organizer-image"><a href="https://raabuchanan.github.io/"><img src="/assets/images/organizers/russell.jpeg" alt="Russell Buchanan" width="150" height="150"></a></td>
     <td class="organizer-info">
       <strong>Russell Buchanan</strong><br>
       Assistant Professor, University of Waterloo<br>
       <em class="research-topic">Research Topic: Estimation, Perception, Learning for Robot Manipulation.</em>
     </td>
-  </tr>
+  </tr> -->
   <tr>
     <td class="organizer-image"><a href="https://yaosu.info/"><img src="/assets/images/organizers/yao.jpeg" alt="Yao Su" width="150" height="150"></a></td>
     <td class="organizer-info">
