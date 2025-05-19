@@ -5,29 +5,37 @@ classes: wide
 layout: splash
 ---
 
-**Disclaimer:** This workshop is not yet confirmed. We are working on our proposal submission.
+<!-- **Disclaimer:** This workshop is not yet confirmed. We are working on our proposal submission.
 {: .notice--danger}
 
 **Warning:** This website is under construction.
-{: .notice--warning}
+{: .notice--warning} -->
 
 ## Organizers
 
 <table class="organizers-table">
+  <tr>
+    <td class="organizer-image"><a href="https://jjiayu.github.io/"><img src="/assets/images/organizers/jiayi.jpeg" alt="Jiayi Wang" width="150" height="150"></a></td>
+    <td class="organizer-info">
+      <strong>Jiayi Wang</strong><br>
+      Research Scientist, Beijing Institute for General Artificial Intelligence (BIGAI) <br>
+      <em class="research-topic">Research Topic: Humanoid Robotics</em>
+    </td>
+  </tr>
+  <tr>
+    <td class="organizer-image"><a href="https://sites.google.com/view/namikosaito/home"><img src="/assets/images/organizers/namiko.jpeg" alt="Namiko Saito" width="150" height="150"></a></td>
+    <td class="organizer-info">
+      <strong>Namiko Saito</strong><br>
+      Senior Researcher, Microsoft Research Asia Tokyo<br>
+      <em class="research-topic">Research Topic: Robot Manipulation, Multi-modal Learning, Representation Learning</em>
+    </td>
+  </tr>
   <tr>
     <td class="organizer-image"><a href="https://rl.uni-freiburg.de/people/roefer"><img src="/assets/images/organizers/adrian.jpeg" alt="Adrian Röfer" width="150" height="150"></a></td>
     <td class="organizer-info">
       <strong>Adrian Röfer</strong><br>
       PhD Student, University of Freiburg<br>
       <em class="research-topic">Research Topic: Robot Learning</em>
-    </td>
-  </tr>
-  <tr>
-    <td class="organizer-image"><a href="https://liuhx111.github.io/"><img src="/assets/images/organizers/hangxin.jpg" alt="Hangxin Liu" width="150" height="150"></a></td>
-    <td class="organizer-info">
-      <strong>Hangxin Liu</strong><br>
-      Research Scientist, Beijing Institute for General Artificial Intelligence (BIGAI)<br>
-      <em class="research-topic">Research Topic: Perception, Reasoning, Task and Motion Planning</em>
     </td>
   </tr>
   <tr>
@@ -39,19 +47,11 @@ layout: splash
     </td>
   </tr>
   <tr>
-    <td class="organizer-image"><a href="https://jjiayu.github.io/"><img src="/assets/images/organizers/jiayi.jpeg" alt="Jiayi Wang" width="150" height="150"></a></td>
+    <td class="organizer-image"><a href="https://liuhx111.github.io/"><img src="/assets/images/organizers/hangxin.jpg" alt="Hangxin Liu" width="150" height="150"></a></td>
     <td class="organizer-info">
-      <strong>Jiayi Wang (Lead Organizer)</strong><br>
-      Research Scientist, Beijing Institute for General Artificial Intelligence (BIGAI) <br>
-      <em class="research-topic">Research Topic: Humanoid Robotics</em>
-    </td>
-  </tr>
-  <tr>
-    <td class="organizer-image"><a href="https://sites.google.com/view/namikosaito/home"><img src="/assets/images/organizers/namiko.jpeg" alt="Namiko Saito" width="150" height="150"></a></td>
-    <td class="organizer-info">
-      <strong>Namiko Saito</strong><br>
-      Senior Researcher, Microsoft Research Asia Tokyo<br>
-      <em class="research-topic">Research Topic: Robot Manipulation, Multi-modal Learning, Representation Learning</em>
+      <strong>Hangxin Liu</strong><br>
+      Research Scientist, Beijing Institute for General Artificial Intelligence (BIGAI)<br>
+      <em class="research-topic">Research Topic: Perception, Reasoning, Task and Motion Planning</em>
     </td>
   </tr>
   <!-- <tr>

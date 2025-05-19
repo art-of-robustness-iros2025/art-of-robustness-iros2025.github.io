@@ -5,11 +5,11 @@ classes: wide
 layout: splash
 ---
 
-**Disclaimer:** This workshop is not yet confirmed. We are working on our proposal submission.
+<!-- **Disclaimer:** This workshop is not yet confirmed. We are working on our proposal submission.
 {: .notice--danger}
 
 **Warning:** This website is under construction.
-{: .notice--warning}
+{: .notice--warning} -->
 
 ## Registration
 

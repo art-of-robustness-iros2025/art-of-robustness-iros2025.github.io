@@ -35,9 +35,9 @@ invited_speakers:
     affiliation: " Idiap Research Institute, EPFL, Switzerland"
     image_path: /assets/images/invited_speakers/Sylvain Calinon.jpeg
     topic: "Topic: Exploiting Geometric Approaches and Ergodic Control for Robust Manipulation"
-  - name: "Prof. Danica Kragic"
-    affiliation: " Royal Institute of Technology (KTH)"
-    image_path: /assets/images/invited_speakers/Danica Kragic.png
+  - name: "Prof. TBD"
+    affiliation: "TBD"
+    image_path: /assets/images/invited_speakers/bio-photo.jpg
     topic: "Topic: TBD"
   - name: "Dr. Xiaolong Wang"
     affiliation: "University of California San Diego"
@@ -89,14 +89,22 @@ gallery:
     alt: "placeholder image 3"
     title: "Image 3 title caption"
 ---
-
+<!-- 
 **Disclaimer:** This workshop is not yet confirmed. We are working on our proposal submission.
 {: .notice--danger}
 
 **Warning:** This website is under construction.
-{: .notice--warning}
+{: .notice--warning} -->
 
 <!-- # {{ site.title }} -->
+
+<style>
+  h1:first-of-type {
+    margin-top: 50px;  /* Add space above the title */
+    padding-top: 20px; /* Additional padding if needed */
+  }
+</style>
+
 # The Art of Robustness: Surviving Failures in Robotics
 
 *October 20, 2025 in Hangzhou, China*
