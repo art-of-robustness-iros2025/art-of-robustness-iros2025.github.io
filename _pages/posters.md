@@ -45,12 +45,11 @@ We invite researchers to submit short papers on preliminary results, ongoing wor
 
 ## Submission Instructions
 
-
 We encourage participants to submit their research to _Link_ in the form of a short paper (2-4 pages, excluding references)  following the template and format guidelines given in the [IEEE Robotics and Automation Society](https://ras.papercept.net/conferences/support/support.php). 
 
 Presenting already accepted work is also encouraged. In this case, authors should submit the accpted manuscript along with a poster summarizing their research. 
 
-<u> Submitting a video attachment to illustrate the failure cases discussed in the extended abstract is optional but highly recommended. </u>
+<u>Submitting a video showing failure cases and their solutions is optional but highly recommended.</u>
 
 <!-- Submission of video attachment and code is optional but highly encouraged.  -->
 
