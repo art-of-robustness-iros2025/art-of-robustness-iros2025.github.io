@@ -39,9 +39,9 @@ invited_speakers:
     affiliation: "TBD"
     image_path: /assets/images/invited_speakers/bio-photo.jpg
     topic: "Topic: TBD"
-  - name: "Dr. Xiaolong Wang"
-    affiliation: "University of California San Diego"
-    image_path: /assets/images/invited_speakers/Xiaolong Wang.png
+  - name: "Dr. TBD"
+    affiliation: "TBD"
+    image_path: /assets/images/invited_speakers/bio-photo.jpg
     topic: "Topic: TBD"
 organizers:
   - name: "Jiayi Wang"
