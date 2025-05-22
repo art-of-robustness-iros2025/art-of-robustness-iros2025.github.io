@@ -57,11 +57,6 @@ All submissions will be reviewed based on quality, originality, and relevance. A
 
 ## Important Dates
 
-**First Round Submission**
-- **Submission Deadline**: 5th August 2025
-- **Notification**: 20th August 2025
-
-**Second Round Submission**
 - **Submission Deadline**: 5th September 2025
 - **Notification**: 20th September 2025
 
