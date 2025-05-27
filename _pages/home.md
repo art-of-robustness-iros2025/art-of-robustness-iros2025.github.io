@@ -32,16 +32,16 @@ invited_speakers:
     image_path: /assets/images/invited_speakers/Xiaokun Leng.jpeg
     topic: "Topic: Development of Humanoid Robot Technology and its Industrialization"
   - name: "Dr. Sylvain Calinon"
-    affiliation: " Idiap Research Institute, EPFL, Switzerland"
+    affiliation: "Idiap Research Institute, EPFL, Switzerland"
     image_path: /assets/images/invited_speakers/Sylvain Calinon.jpeg
     topic: "Topic: Exploiting Geometric Approaches and Ergodic Control for Robust Manipulation"
-  - name: "Prof. TBD"
-    affiliation: "TBD"
-    image_path: /assets/images/invited_speakers/bio-photo.jpg
+  - name: "Prof. Dimitrios Kanoulas"
+    affiliation: "University College London"
+    image_path: /assets/images/invited_speakers/DKanoulas-2024-sq.png
     topic: "Topic: TBD"
-  - name: "Dr. TBD"
-    affiliation: "TBD"
-    image_path: /assets/images/invited_speakers/bio-photo.jpg
+  - name: "Dr. Jiaolong Yang"
+    affiliation: "Microsoft Research Asia"
+    image_path: /assets/images/invited_speakers/Jiaolong_Yang.png
     topic: "Topic: TBD"
 organizers:
   - name: "Jiayi Wang"
