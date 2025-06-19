@@ -19,7 +19,7 @@ To estimate the number of participants, we encourage prospective attendees to re
 
 Monday, October 20, 2025
 
-8:30 AM – 12:00 PM
+8:30 AM – 12:30 PM
 
 ## 📍 Venue
 
