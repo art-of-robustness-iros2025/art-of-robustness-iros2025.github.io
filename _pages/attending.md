@@ -11,13 +11,22 @@ layout: splash
 **Warning:** This website is under construction.
 {: .notice--warning} -->
 
-## Registration
+<!-- ## Registration
 
-To estimate the number of participants, we encourage prospective attendees to register [here](#). The registration deadline is _To_be_Announced_.
+To estimate the number of participants, we encourage prospective attendees to register [here](#). The registration deadline is _To_be_Announced_. -->
 
-## Date
-20th, October 2025
+## 📅 Date & Time
 
-## Venue
+Monday, October 20, 2025
 
-_To_be_Annoucned_
+8:30 AM – 12:00 PM
+
+## 📍 Venue
+
+Multi-functional Hall B
+
+Hangzhou International Expo Center
+
+353 Benjing Avenue, Xiangshan District
+
+Hangzhou, Zhejiang Province, China

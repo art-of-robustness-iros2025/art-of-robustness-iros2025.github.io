@@ -12,7 +12,6 @@ classes: wide
 {: .notice--warning} -->
 
 
-
 ## Programme
 
 The workshop features invited talks, panel discussions, and poster presentations. Each event will foster discussions, emphasizing interactions between early-career and senior researchers.

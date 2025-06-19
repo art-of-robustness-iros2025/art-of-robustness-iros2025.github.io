@@ -107,9 +107,11 @@ gallery:
 
 # The Art of Robustness: Surviving Failures in Robotics
 
-*October 20, 2025 in Hangzhou, China*
+*Multi-functional Hall B, Hangzhou International Expo Center, Hangzhou, China*
 
-## Abstract
+*October 20, 2025, 8:30 AM – 12:30 PM*
+
+## Introduction
 
 In recent years, we have seen significant advancements in robotic systems. 
 Humanoid robots can perform complex tasks, mobile manipulators show promise in logistics and industrial applications, and exoskeletons enhance human capabilities.
@@ -252,15 +254,10 @@ advancements and strategies for addressing these obstacles.
 
 ## Call for Posters
 
-We invite researchers to submit short papers on preliminary results, ongoing works, and demos relevant to the workshop to _Link_ in the form of a short papers (2-4 pages, excluding references).
+We invite researchers to submit short papers on preliminary results, ongoing works, and demos relevant to the workshop via [this Link](https://openreview.net/group?id=IEEE.org/IROS/2025/Workshop/TARo#tab-your-consoles) in the form of a short papers (2-4 pages, excluding references).
 
-**Important Dates**
+### Important Dates
 
-**First Round Submission**
-- **Submission Deadline**: 5th August 2025
-- **Notification**: 20th August 2025
-
-**Second Round Submission**
 - **Submission Deadline**: 5th September 2025
 - **Notification**: 20th September 2025
 
