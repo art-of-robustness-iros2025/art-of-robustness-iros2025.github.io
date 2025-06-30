@@ -42,7 +42,7 @@ layout: splash
     <td class="organizer-image"><a href="https://ferrolho.github.io/"><img src="/assets/images/organizers/henrique.jpg" alt="Henrique Ferrolho" width="150" height="150"></a></td>
     <td class="organizer-info">
       <strong>Henrique Ferrolho</strong><br>
-      Senior Robotics Engineer, Address Robotics Ltd, London, UK<br>
+      Senior Robotics Engineer, ALL3, London, UK<br>
       <em class="research-topic">Research Topic: Robotics, Optimal Control, Trajectory Optimisation</em>
     </td>
   </tr>

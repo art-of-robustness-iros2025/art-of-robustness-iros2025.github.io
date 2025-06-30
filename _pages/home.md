@@ -42,7 +42,7 @@ invited_speakers:
   - name: "Dr. Jiaolong Yang"
     affiliation: "Microsoft Research Asia"
     image_path: /assets/images/invited_speakers/Jiaolong_Yang.png
-    topic: "Topic: TBD"
+    topic: "Topic: Towards Foundational Robotic Vision-Language-Action Models that Generalize"
 organizers:
   - name: "Jiayi Wang"
     affiliation: "Beijing Institute for General Artificial Intelligence (BIGAI)"
@@ -51,7 +51,7 @@ organizers:
     affiliation: "Microsoft Research Asia Tokyo"
     image_path: /assets/images/organizers/namiko.jpeg
   - name: "Henrique Ferrolho"
-    affiliation: "Address Robotics Ltd, London, UK"
+    affiliation: "ALL3, London, UK"
     image_path: /assets/images/organizers/henrique.jpg
   - name: "Sethu Vijayakumar"
     affiliation: "The University of Edinburgh"
