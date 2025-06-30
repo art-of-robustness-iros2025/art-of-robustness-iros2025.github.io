@@ -38,7 +38,7 @@ invited_speakers:
   - name: "Prof. Dimitrios Kanoulas"
     affiliation: "University College London"
     image_path: /assets/images/invited_speakers/DKanoulas-2024-sq.png
-    topic: "Topic: The Good, the Bad, and the Ugly---Robustness of Robots that have Limbs"
+    topic: "Topic: The Good, the Bad, and the Ugly-Robustness of Robots that have Limbs"
   - name: "Dr. Jiaolong Yang"
     affiliation: "Microsoft Research Asia"
     image_path: /assets/images/invited_speakers/Jiaolong_Yang.png
