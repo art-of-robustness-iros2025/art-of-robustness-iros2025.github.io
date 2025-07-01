@@ -261,6 +261,10 @@ We invite researchers to submit short papers on preliminary results, ongoing wor
 - **Submission Deadline**: 5th September 2025
 - **Notification**: 20th September 2025
 
+The **Best Paper** will be awarded $800, and each **Finalist** will receive $500, sponsored by [LEJU ROBOT](https://www.lejurobot.com/en).
+
+Three **outstanding paper awards** will be announced during the workshop, each with a cash prize of **600 USD** (pre-tax), sponsored by [LEJU ROBOT](https://www.lejurobot.com/en).
+
 ## Organizers
 
 <div class="organizers">
