@@ -37,19 +37,18 @@ The workshop features invited talks, panel discussions, and poster presentations
   }
 </style>
 
-### Half-day workshop
 
-|     Time      |  Event  | Description                                           |
+|     Time      |  Event  | Description                                           | 
 | :-----------: | :-----: | :---------------------------------------------------- |
 | 08:30 – 08:35 | Opening | Welcome and foreword (5 mins)                         |
-| 08:35 – 09:00 |         | Speaker (20 mins + 5 mins Q&A)                        |
-| 09:00 – 09:25 |         | Speaker (20 mins + 5 mins Q&A)                        |
-| 09:25 – 09:50 |         | Speaker (20 mins + 5 mins Q&A)                        |
+| 08:35 – 09:00 |         | Kensuke Harada: *Realizing robust motion planning for robotic manipulation tasks*  <br> (20 mins + 5 mins Q&A)|
+| 09:00 – 09:25 |         | Nick Hawes: *Robustness through Planning in Long-term Autonomous Deployments* <br> (20 mins + 5 mins Q&A)|
+| 09:25 – 09:50 |         | Xiaokun Leng: *Development of Humanoid Robot Technology and its Industrialization* <br> (20 mins + 5 mins Q&A)|
 | 09:50 – 10:10 |         | Poster spotlights (20 mins)                           |
 | 10:10 – 10:40 |  Break  | Coffee, posters, demonstrations (30 mins)             |
-| 10:40 – 11:05 |         | Speaker (20 mins + 5 mins Q&A)                        |
-| 11:05 – 11:30 |         | Speaker (20 mins + 5 mins Q&A)                        |
-| 11:30 – 11:55 |         | Speaker (20 mins + 5 mins Q&A)                        |
+| 10:40 – 11:05 |         | Sylvain Calinon: *Exploiting Geometric Approaches and Ergodic Control for Robust Manipulation* <br> (20 mins + 5 mins Q&A)|
+| 11:05 – 11:30 |         | Dimitrios Kanoulas: *The Good, the Bad, and the Ugly-Robustness of Robots that have Limbs* <br> (20 mins + 5 mins Q&A)|
+| 11:30 – 11:55 |         | Jiaolong Yang: *Towards Foundational Robotic Vision-Language-Action Models that Generalize* <br> (20 mins + 5 mins Q&A)|
 | 11:55 – 12:25 |         | Panel discussion (30 mins)                            |
 | 12:25 – 12:30 | Closing | Conclusion, best poster award, and farewell (5 mins) |
 
