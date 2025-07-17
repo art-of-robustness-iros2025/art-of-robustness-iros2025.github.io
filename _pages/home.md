@@ -23,10 +23,10 @@ invited_speakers:
     affiliation: "Osaka University"
     image_path: /assets/images/invited_speakers/Kensuke Harada.png
     topic: "Topic: Realizing robust motion planning for robotic manipulation tasks"
-  - name: "Prof. Nick Hawes"
-    affiliation: "University of Oxford"
-    image_path: /assets/images/invited_speakers/Nick Hawes.jpeg
-    topic: "Topic: Robustness through Planning in Long-term Autonomous Deployments"
+  - name: "Prof. Tetsuya Ogata"
+    affiliation: " Waseda University"
+    image_path: /assets/images/invited_speakers/Tatsuya_Ogata.jpeg
+    topic: "TBD"
   - name: "Dr. Xiaokun Leng"
     affiliation: "LEJU Robotics"
     image_path: /assets/images/invited_speakers/Xiaokun Leng.jpeg
@@ -59,9 +59,6 @@ organizers:
   - name: "Adrian Röfer"
     affiliation: "University of Freiburg"
     image_path: /assets/images/organizers/adrian.jpeg
-  # - name: "Russell Buchanan"
-  #   affiliation: "University of Waterloo"
-  #   image_path: /assets/images/organizers/russell.jpeg
   - name: Yue Gao
     affiliation: "Shanghai Jiaotong University"
     image_path: /assets/images/organizers/yue.jpeg
