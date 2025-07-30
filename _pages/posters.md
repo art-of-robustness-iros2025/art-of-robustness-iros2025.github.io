@@ -57,7 +57,7 @@ All submissions will be reviewed based on quality, originality, and relevance. A
 
 ## Important Dates
 
-- **Submission Deadline**: 5th September 2025
+- **Submission Deadline**: 15th September 2025
 - **Notification**: 20th September 2025
 
 ## Awards
