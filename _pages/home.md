@@ -118,7 +118,7 @@ Below is a video showing robot failures experienced by the workshop organizers,
 illustrating the impact of these failures in real-world settings.
 
 <div class="video-wrapper">
-  <iframe width="720" height="405" src="https://www.youtube.com/embed/fPZR2p4dFhE?autoplay=1&mute=1&loop=1&playlist=fPZR2p4dFhE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  <iframe width="720" height="405" src="https://www.youtube.com/embed/nQtowRkRDwU?si=Ml0BtL3JrBWzqhng" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 <style>
