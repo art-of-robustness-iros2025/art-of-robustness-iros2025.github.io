@@ -253,10 +253,12 @@ advancements and strategies for addressing these obstacles.
 
 We invite researchers to submit short papers on preliminary results, ongoing works, and demos relevant to the workshop via [this Link](https://openreview.net/group?id=IEEE.org/IROS/2025/Workshop/TARo#tab-your-consoles) in the form of a short papers (2-4 pages, excluding references).
 
+<u>Submitting a video showing failure cases is optional but highly recommended. We will showcase the most interesting failure videos in the workshop. </u>
+
 ### Important Dates
 
-- **Submission Deadline**: 5th September 2025
-- **Notification**: 20th September 2025
+- **Submission Deadline**: 20th September 2025
+- **Notification**: 25th September 2025
 
 Three **outstanding paper awards** will be announced during the workshop, each with a cash prize of **600 USD** (pre-tax), sponsored by [LEJU ROBOT](https://www.lejurobot.com/en).
 

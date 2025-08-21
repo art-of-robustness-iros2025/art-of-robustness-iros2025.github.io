@@ -47,24 +47,20 @@ We invite researchers to submit short papers on preliminary results, ongoing wor
 
 We encourage participants to submit their research via [this Link](https://openreview.net/group?id=IEEE.org/IROS/2025/Workshop/TARo#tab-your-consoles) in the form of a short paper (2-4 pages, excluding references), following the template and format guidelines given in the [IEEE Robotics and Automation Society](https://ras.papercept.net/conferences/support/support.php). 
 
-Presenting already accepted work is also encouraged. In this case, authors can submit the accpted manuscript along with the poster to be presented at the workshop. 
+<u>Submitting a video showing failure cases is optional but highly recommended. We will showcase the most interesting failure videos in the workshop. </u>
 
-<u>Submitting a video showing failure cases is optional but highly recommended.</u>
-
-<!-- Submission of video attachment and code is optional but highly encouraged.  -->
+Presenting already accepted work is also encouraged. In this case, authors may submit the accpted manuscript to the workshop. 
 
 All submissions will be reviewed based on quality, originality, and relevance. All accepted contributions will be presented as posters during the poster session. 
 
 ## Important Dates
 
-- **Submission Deadline**: 15th September 2025
-- **Notification**: 20th September 2025
+- **Submission Deadline**: 20th September 2025
+- **Notification**: 25th September 2025
 
 ## Awards
 
 **Three Outstanding Paper Awards** will be presented during the workshop, each with a cash prize of **600 USD** (pre-tax), sponsored by [LEJU ROBOT](https://www.lejurobot.com/en).
-
-<!-- A *Best Poster Award* will be presented during the workshop's closing session. -->
 
 ## Contact
 If you have any questions, don't hesitate to contact us. 
