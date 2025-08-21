@@ -47,9 +47,9 @@ We invite researchers to submit short papers on preliminary results, ongoing wor
 
 We encourage participants to submit their research via [this Link](https://openreview.net/group?id=IEEE.org/IROS/2025/Workshop/TARo#tab-your-consoles) in the form of a short paper (2-4 pages, excluding references), following the template and format guidelines given in the [IEEE Robotics and Automation Society](https://ras.papercept.net/conferences/support/support.php). 
 
-Presenting already accepted work is also encouraged. In this case, authors may submit the accpted manuscript to the workshop. 
-
 <u>Submitting a video showing failure cases is optional but highly recommended. We will showcase the most interesting failure videos in the workshop. </u>
+
+Presenting already accepted work is also encouraged. In this case, authors may submit the accpted manuscript to the workshop. 
 
 All submissions will be reviewed based on quality, originality, and relevance. All accepted contributions will be presented as posters during the poster session. 
 
