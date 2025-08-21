@@ -49,7 +49,7 @@ We encourage participants to submit their research via [this Link](https://openr
 
 Presenting already accepted work is also encouraged. In this case, authors may submit the accpted manuscript to the workshop. 
 
-<u>Submitting a video showing failure cases is optional but highly recommended. We will highlight interesting failure videos in the workshop. </u>
+<u>Submitting a video showing failure cases is optional but highly recommended. We will showcase the most interesting failure videos in the workshop. </u>
 
 All submissions will be reviewed based on quality, originality, and relevance. All accepted contributions will be presented as posters during the poster session. 
 
