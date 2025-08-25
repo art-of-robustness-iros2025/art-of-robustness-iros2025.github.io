@@ -20,13 +20,13 @@ sponsors:
     alt: "Japan Science and Technology Agency (JST)"
 invited_speakers:
   - name: "Prof. Kensuke Harada"
-    affiliation: "Osaka University"
+    affiliation: "The University of Osaka"
     image_path: /assets/images/invited_speakers/Kensuke Harada.png
     topic: "Topic: Realizing robust motion planning for robotic manipulation tasks"
   - name: "Prof. Tetsuya Ogata"
-    affiliation: " Waseda University"
+    affiliation: "Waseda University"
     image_path: /assets/images/invited_speakers/Tatsuya_Ogata.jpeg
-    topic: "TBD"
+    topic: "Latent Representation for Error Recovery in End-to-End Robot Motion Generation"
   - name: "Dr. Xiaokun Leng"
     affiliation: "LEJU Robotics"
     image_path: /assets/images/invited_speakers/Xiaokun Leng.jpeg

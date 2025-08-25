@@ -42,7 +42,7 @@ The workshop features invited talks, panel discussions, and poster presentations
 | :-----------: | :-----: | :---------------------------------------------------- |
 | 08:30 – 08:35 | Opening | Welcome and foreword (5 mins)                         |
 | 08:35 – 09:00 |         | Kensuke Harada: *Realizing robust motion planning for robotic manipulation tasks*  <br> (20 mins + 5 mins Q&A)|
-| 09:00 – 09:25 |         | Tetsuya Ogata: *TBD* <br> (20 mins + 5 mins Q&A)|
+| 09:00 – 09:25 |         | Tetsuya Ogata: *Latent Representation for Error Recovery in End-to-End Robot Motion Generation* <br> (20 mins + 5 mins Q&A)|
 | 09:25 – 09:50 |         | Xiaokun Leng: *Development of Humanoid Robot Technology and its Industrialization* <br> (20 mins + 5 mins Q&A)|
 | 09:50 – 10:10 |         | Poster spotlights (20 mins)                           |
 | 10:10 – 10:40 |  Break  | Coffee, posters, demonstrations (30 mins)             |
