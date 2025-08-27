@@ -20,7 +20,7 @@ sponsors:
     alt: "Japan Science and Technology Agency (JST)"
 invited_speakers:
   - name: "Prof. Kensuke Harada"
-    affiliation: "University of Osaka"
+    affiliation: "The University of Osaka"
     image_path: /assets/images/invited_speakers/Kensuke Harada.png
     topic: "Topic: Realizing robust motion planning for robotic manipulation tasks"
   - name: "Prof. Tetsuya Ogata"
