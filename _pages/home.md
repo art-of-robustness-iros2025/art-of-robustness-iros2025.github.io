@@ -257,8 +257,8 @@ We invite researchers to submit short papers on preliminary results, ongoing wor
 
 ### Important Dates
 
-- **Submission Deadline**: 20th September 2025
-- **Notification**: 25th September 2025
+- **Submission Deadline**: 30th September 2025  ~~20th September 2025~~
+- **Notification**: 5th October 2025  ~~25th September 2025~~
 
 Three **outstanding paper awards** will be announced during the workshop, each with a cash prize of **600 USD** (pre-tax), sponsored by [LEJU ROBOT](https://www.lejurobot.com/en).
 
