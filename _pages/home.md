@@ -106,7 +106,7 @@ gallery:
 
 *Multi-functional Hall B, Hangzhou International Expo Center, Hangzhou, China*
 
-*October 20, 2025, 8:30 AM – 12:30 PM*
+*October 20, 2025, 9:00 AM – 13:00 PM*
 
 ## Introduction
 
