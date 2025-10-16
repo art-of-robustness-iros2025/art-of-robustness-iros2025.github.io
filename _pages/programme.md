@@ -47,7 +47,7 @@ The workshop features invited talks, panel discussions, and poster presentations
 | 09:50 – 10:15 |         | Sylvain Calinon: *Exploiting Geometric Approaches and Ergodic Control for Robust Manipulation* <br> (20 mins + 5 mins Q&A)|
 | 10:15 – 10:30 |         | Poster spotlights (15 mins)                           |
 | 10:30 – 11:00 |  Break  | Coffee, posters, demonstrations (30 mins)             |
-| 11:00 – 11:25 |         | Dimitrios Kanoulas: *The Good, the Bad, and the Ugly-Robustness of Robots that have Limbs* <br> (20 mins + 5 mins Q&A)|
+| 11:15 – 11:25 |         | Dimitrios Kanoulas: *The Good, the Bad, and the Ugly-Robustness of Robots that have Limbs* <br> (10 min)|
 | 11:25 – 11:50 |         | Jiaolong Yang: *Towards Foundational Robotic Vision-Language-Action Models that Generalize* <br> (20 mins + 5 mins Q&A)|
 | 11:50 – 12:20 |         | Panel discussion (30 mins)                            |
 | 12:20 – 12:30 | Closing | Conclusion, best poster award, and farewell (10 mins)  | -->
@@ -61,8 +61,8 @@ The workshop features invited talks, panel discussions, and poster presentations
 | 10:20 – 10:35 |         | Poster spotlights (15 mins)                           |
 | 10:35 – 11:05 |  Break  | Coffee, posters, demonstrations (30 mins)             |
 | 11:05 – 11:30 |         | Sylvain Calinon: *Exploiting Geometric Approaches and Ergodic Control for Robust Manipulation* <br> (20 mins + 5 mins Q&A)|
-| 11:30 – 11:55 |         | Dimitrios Kanoulas: *The Good, the Bad, and the Ugly-Robustness of Robots that have Limbs* <br> (20 mins + 5 mins Q&A)|
-| 11:55 – 12:20 |         | Jiaolong Yang: *Towards Foundational Robotic Vision-Language-Action Models that Generalize* <br> (20 mins + 5 mins Q&A)|
-| 12:20 – 12:50 |         | Panel discussion (30 mins)                            |
-| 12:50 – 13:00 | Closing | Conclusion, best poster award, and farewell (10 mins)  |
+| 11:30 – 11:40 |         | Dimitrios Kanoulas: *The Good, the Bad, and the Ugly-Robustness of Robots that have Limbs* <br> (10 mins)|
+| 11:40 – 12:05 |         | Jiaolong Yang: *Towards Foundational Robotic Vision-Language-Action Models that Generalize* <br> (20 mins + 5 mins Q&A)|
+| 12:05 – 12:35 |         | Panel discussion (30 mins)                             |
+| 12:35 – 12:45 | Closing | Conclusion, best poster award, and farewell (10 mins)  |
 
