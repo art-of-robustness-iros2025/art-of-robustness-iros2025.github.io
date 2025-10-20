@@ -23,7 +23,7 @@ Monday, October 20, 2025
 
 ## 📍 Venue
 
-Multi-functional Hall B
+Room 105
 
 Hangzhou International Expo Center
 

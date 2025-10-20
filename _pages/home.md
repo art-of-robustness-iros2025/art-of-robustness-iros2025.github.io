@@ -104,7 +104,7 @@ gallery:
 
 # The Art of Robustness: Surviving Failures in Robotics
 
-*Multi-functional Hall B, Hangzhou International Expo Center, Hangzhou, China*
+*Room 105, Hangzhou International Expo Center, Hangzhou, China*
 
 *October 20, 2025, 9:00 AM – 13:00 PM*
 
