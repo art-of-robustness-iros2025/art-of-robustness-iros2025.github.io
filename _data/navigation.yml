@@ -7,6 +7,8 @@ main:
     url: /posters/
   - title: "Poster Gallery"
     url: /gallery/
+  - title: "Event Photos"
+    url: /event-photos/
   - title: "Attending"
     url: /attending/
   - title: "Organisation"
