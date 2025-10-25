@@ -1,15 +1,12 @@
 ---
 permalink: /event-photos/
 title: "Event Photos"
-classes: wide
-layout: single
+layout: splash
 ---
 
-## Workshop Event Gallery
+## Event Photos
 
-A collection of photos from the IROS 2025 Workshop on "The Art of Robustness: Surviving Failures in Robotics" held on October 20, 2025, in Hangzhou, China.
-
-### Invited Talks
+#### Speakers giving their talks
 
 <div class="photo-gallery">
   <div class="photo-grid">
@@ -24,7 +21,7 @@ A collection of photos from the IROS 2025 Workshop on "The Art of Robustness: Su
   </div>
 </div>
 
-### Award Ceremony
+#### Handing out awards to the best submissions
 
 <div class="photo-gallery">
   <div class="photo-grid">
@@ -39,7 +36,7 @@ A collection of photos from the IROS 2025 Workshop on "The Art of Robustness: Su
   </div>
 </div>
 
-### Other Moments
+#### Other moments during the workshop
 
 <div class="photo-gallery">
   <div class="photo-grid">
@@ -55,84 +52,121 @@ A collection of photos from the IROS 2025 Workshop on "The Art of Robustness: Su
 </div>
 
 <style>
+/* Layout styling for gallery pages */
+.page {
+  max-width: 100% !important;
+  padding-left: 1rem !important;
+  padding-right: 1rem !important;
+}
+
+.page__inner-wrap {
+  max-width: 1400px !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+.page__content h3 {
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid #e8e8e8;
+}
+
+.page__content h3:first-of-type {
+  margin-top: 1.5rem;
+}
+
 .photo-gallery {
-  margin: 2rem 0 3rem 0;
+  margin: 0 0 2rem 0;
+  max-width: 1400px;
 }
 
 .photo-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-  gap: 1.5rem;
-  padding: 1rem 0;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 1.2rem;
+  padding: 0 0 1rem 0;
 }
 
 .photo-item {
   position: relative;
   overflow: hidden;
-  border-radius: 8px;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
-  background-color: #f5f5f5;
+  border-radius: 6px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  background-color: #fff;
+  aspect-ratio: 4 / 3;
 }
 
 .photo-item:hover {
-  transform: translateY(-5px);
-  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+  transform: translateY(-3px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
 }
 
 .photo-item a {
   display: block;
   text-decoration: none;
+  width: 100%;
+  height: 100%;
 }
 
 .photo-item img {
   width: 100%;
-  height: auto;
+  height: 100%;
+  object-fit: cover;
   display: block;
-  transition: opacity 0.3s ease;
+  transition: opacity 0.2s ease;
 }
 
 .photo-item:hover img {
-  opacity: 0.9;
+  opacity: 0.92;
 }
 
 /* Zoom icon on hover */
 .photo-item a::after {
   content: '🔍';
   position: absolute;
-  top: 10px;
-  right: 10px;
-  background: rgba(255, 255, 255, 0.9);
-  padding: 5px 10px;
+  top: 8px;
+  right: 8px;
+  background: rgba(255, 255, 255, 0.95);
+  padding: 4px 8px;
   border-radius: 4px;
   opacity: 0;
-  transition: opacity 0.3s ease;
-  font-size: 1.2rem;
+  transition: opacity 0.2s ease;
+  font-size: 1rem;
+  pointer-events: none;
 }
 
 .photo-item:hover a::after {
   opacity: 1;
 }
 
-/* Section headings */
-h3 {
-  margin-top: 2.5rem;
-  margin-bottom: 1rem;
-  padding-bottom: 0.5rem;
-  border-bottom: 2px solid #e0e0e0;
+/* Responsive adjustments */
+@media (max-width: 1200px) {
+  .photo-grid {
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  }
 }
 
-/* Responsive adjustments */
 @media (max-width: 768px) {
   .photo-grid {
     grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
     gap: 1rem;
   }
+
+  .page__title {
+    font-size: 1.5em !important;
+  }
+
+  .page__content h3 {
+    font-size: 1.2em !important;
+  }
 }
 
 @media (max-width: 480px) {
   .photo-grid {
-    grid-template-columns: 1fr;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 0.8rem;
   }
 }
 </style>

@@ -1,14 +1,14 @@
 main:
-  - title: "Home"
-    url: /
+  # - title: "Home"
+  #   url: /
+  - title: "Event Photos"
+    url: /event-photos/
+  - title: "Poster Gallery"
+    url: /gallery/
   - title: "Programme"
     url: /programme/
   - title: "Call for Contributions"
     url: /posters/
-  - title: "Poster Gallery"
-    url: /gallery/
-  - title: "Event Photos"
-    url: /event-photos/
   - title: "Attending"
     url: /attending/
   - title: "Organisation"
