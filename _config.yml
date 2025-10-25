@@ -40,6 +40,10 @@ remote_theme: mmistakes/minimal-mistakes
 # Outputting
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
+# Exclude files from processing
+exclude:
+  - CLAUDE.md
+
 include:
   - _pages
 

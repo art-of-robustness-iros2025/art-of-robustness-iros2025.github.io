@@ -5,6 +5,8 @@ main:
     url: /programme/
   - title: "Call for Contributions"
     url: /posters/
+  - title: "Poster Gallery"
+    url: /gallery/
   - title: "Attending"
     url: /attending/
   - title: "Organisation"
